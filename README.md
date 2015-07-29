@@ -7,6 +7,15 @@ Check out the spec folder to see an example for each section.
 
 Outlined below are a series of tips building on each other to describe how to avoid going over the wire in your Ruby tests.
 
+The example specs can all be run with:
+
+    git clone https://github.com/Anafore/remote_tips.git
+    cd remote_tips
+    bundle
+    bundle exec rspec
+    
+VCR cassettes are already included.
+
 Tips
 =====
 
